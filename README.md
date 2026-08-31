@@ -2,7 +2,6 @@
 - 👀 I’m interested in Software / Game Development
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on any fun projects!
-- 📫 How to reach me on X @Samuelate99
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've flown a Plane and a Glider
 <!---
